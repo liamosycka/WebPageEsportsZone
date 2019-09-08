@@ -1,0 +1,27 @@
+#carousel{
+  background-color: #151e3f;
+}
+#navigation-bar{
+  position:sticky;
+  z-index: 1;
+  top:0;
+}
+#torneos{
+  background-image:url("./img/fondotorneos.jpg");
+  color:white;
+
+}
+#copa{
+  background-image: url("./img/esports-copa.jpg");
+}
+
+#tituloTorneo{
+  font-family: 'Dancing Script', cursive;
+  font-size: 2.5em;
+  text-align: center;
+  color:white;
+  background-color:#05204a;
+  padding-bottom: 12px;
+  padding-top: 12px;
+
+}
