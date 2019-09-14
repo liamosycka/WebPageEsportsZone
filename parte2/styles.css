@@ -1,5 +1,11 @@
 #carousel{
   background-color: #151e3f;
+  background-image:url("./img/fondotorneos.jpg");
+}
+#jugadores{
+  padding-top: 20px;
+  background-color: #151e3f;
+background-image:url("./img/fondotorneos.jpg");
 }
 #navigation-bar{
   position:sticky;
@@ -11,9 +17,13 @@
   color:white;
 
 }
+
 #copa{
-  background-image: url("./img/esports-copa.jpg");
+background-image:url("./img/fondotorneos.jpg");
+
 }
+
+
 
 #tituloTorneo{
   font-family: 'Dancing Script', cursive;
@@ -25,10 +35,32 @@
   padding-top: 12px;
 
 }
-#csgoinfo{
+
+#tituloJugadores{
+  font-family: 'Dancing Script', cursive;
+  font-size: 2.5em;
+  text-align: center;
+  color:white;
+  background-color:#05204a;
+  padding-bottom: 12px;
+  padding-top: 12px;
 
 }
+#jugadores a{
+  background-color: black;
+  text-align: center;
+  color:white;
+}
+
+
+
+.card-text{
+  color: white;
+}
+
+
 .card-body{
-  background-color: #151e3f;
+  background-color: black;
+  opacity: 0.5;
 
 }
