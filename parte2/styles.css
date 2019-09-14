@@ -1,4 +1,7 @@
-#carousel{
+body{
+  background-color: black;
+}
+#principal{
   background-color: #151e3f;
   background-image:url("./img/fondotorneos.jpg");
 }
@@ -17,13 +20,6 @@ background-image:url("./img/fondotorneos.jpg");
   color:white;
 
 }
-
-#copa{
-background-image:url("./img/fondotorneos.jpg");
-
-}
-
-
 
 #tituloTorneo{
   font-family: 'Dancing Script', cursive;
@@ -63,4 +59,9 @@ background-image:url("./img/fondotorneos.jpg");
   background-color: black;
   opacity: 0.5;
 
+}
+footer{
+  background-color: black;
+  color:white;
+  text-align: center;
 }
